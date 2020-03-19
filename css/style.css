@@ -1,0 +1,45 @@
+.registration-font{
+    color: white;
+    height: 100px;
+    padding: 26px;
+}
+.p-2.flex-fill.bd-highlight.img-top{
+    width: 80%;
+}
+.p-2.flex-fill.bd-highlight.img-bottom{
+    width: 20%;
+    margin-top: 14px;
+}
+button.btn.btn-warning.btn-registration {
+    width: 70%;
+    float: right;
+    background: #40bad2;
+    border:solid 1px #40bad2;
+}
+button.btn.btn-danger{
+    width: 70%;
+    background: #ee7008;
+     border:solid 1px #40bad2;
+}
+.img-logo{
+    width: 100%;
+    margin-top: 40px;
+}
+.text-p{
+    margin-top: 40px;
+}
+div#navbarSupportedContent {
+    background: #54a928;
+}
+li.nav-item.active {
+    padding: 1px 1px 0px 88px;
+}
+.div#navbarSupportedContent ul li a{
+    color: #ff0;
+}
+li.nav-item.active a {
+    color: white;
+}
+.h-p {
+    margin-top: 34px;
+}
